@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "21a4e6ef-6008-408c-87d9-34956ca3d031",
+    "Name": "dgShowModalPageUserTaskMixin",
+    "ModifiedOnUtc": "\/Date(1623141068000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "dgShowModalPageUserTaskMixin",
+    "DependsOn": []
+  }
+}

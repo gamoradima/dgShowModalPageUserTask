@@ -1,0 +1,16 @@
+﻿{
+  "Descriptor": {
+    "UId": "9840af0c-73b5-c5a1-93b1-82ae1cc306cb",
+    "Name": "dgShowModalPageUserTask",
+    "ModifiedOnUtc": "\/Date(1623137892000)\/",
+    "Maintainer": "Customer",
+    "Description": "Пакет с действием процесса для показа модальных окон в бизнес-процессах. Окна отображаются в виде небольших контейнеров, не закрывая собой текущую страницу, без потери введённых данных пользователем.",
+    "DependsOn": [
+      {
+        "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCore"
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ProcessUserTaskSchemaManager",
+      "UId": "2d8b5058-e0c4-4cd6-8a7c-d912718592c0",
+      "A2": "dgShowModalPageUserTask",
+      "A5": "f8eb4ce8-bee0-40cc-bb87-dcb451c53e90",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "9840af0c-73b5-c5a1-93b1-82ae1cc306cb",
+      "B8": "7.18.0.1353",
+      "FJ1": [
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+          "UId": "16d4c32d-862d-94b5-8453-9b61ebfbf211",
+          "A2": "dgDialogText",
+          "A3": "2d8b5058-e0c4-4cd6-8a7c-d912718592c0",
+          "A4": "2d8b5058-e0c4-4cd6-8a7c-d912718592c0",
+          "L1": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2",
+          "L8": {},
+          "L6": true,
+          "L11": false
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+          "UId": "e3923224-2255-e0dc-c189-e3774d4c41c4",
+          "A2": "dgCommaSeparatedReturnCodes",
+          "A3": "2d8b5058-e0c4-4cd6-8a7c-d912718592c0",
+          "A4": "2d8b5058-e0c4-4cd6-8a7c-d912718592c0",
+          "L1": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2",
+          "L8": {},
+          "L6": true,
+          "L11": false
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+          "UId": "6b4998c0-aba8-1dff-6614-76de3d939e67",
+          "A2": "dgReturnCode",
+          "A3": "2d8b5058-e0c4-4cd6-8a7c-d912718592c0",
+          "A4": "2d8b5058-e0c4-4cd6-8a7c-d912718592c0",
+          "L1": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2",
+          "L8": {},
+          "L11": false,
+          "L13": true
+        }
+      ],
+      "FK4": true,
+      "FK12": "#839DC3",
+      "FK16": true
+    }
+  }
+}

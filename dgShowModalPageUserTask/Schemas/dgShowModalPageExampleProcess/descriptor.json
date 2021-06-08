@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "14b31811-4895-4d8e-bbd7-673d7b73a2f7",
+    "Name": "dgShowModalPageExampleProcess",
+    "ModifiedOnUtc": "\/Date(1623142990000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Пример процесса с показом модального окна",
+    "DependsOn": []
+  }
+}

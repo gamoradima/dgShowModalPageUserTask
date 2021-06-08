@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "2d8b5058-e0c4-4cd6-8a7c-d912718592c0",
+    "Name": "dgShowModalPageUserTask",
+    "ModifiedOnUtc": "\/Date(1623139761000)\/",
+    "ManagerName": "ProcessUserTaskSchemaManager",
+    "Caption": "Show modal page (process user task)",
+    "DependsOn": []
+  }
+}
