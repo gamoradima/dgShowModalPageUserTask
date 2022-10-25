@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CannotEditPageMessage.Value" Value="Bạn không thể chỉnh sửa trang này. Bạn chỉ có thể chỉnh sửa các trang được tạo trong Trình thiết kế trang.&#xA;Để thay đổi trang chủ của bạn hoặc thêm một trang chủ mới, hãy chuyển đến phần thiết lập nơi làm việc." />
+			<Item Name="LocalizableStrings.ChatMenuSeparator.Value" Value="Trò chuyện" />
+			<Item Name="LocalizableStrings.EditPageCaption.Value" Value="Chỉnh sửa trang" />
+			<Item Name="LocalizableStrings.OpenSystemDesignerCaption.Value" Value="System designer" />
+			<Item Name="LocalizableStrings.RedirectToWorkplaceCaption.Value" Value="Thiết lập nơi làm việc" />
+			<Item Name="LocalizableStrings.SystemDesignerMenuButtonHint.Value" Value="Settings" />
+			<Item Name="LocalizableStrings.TelephonyMenuSeparator.Value" Value="Điện thoại" />
+		</Items>
+	</Group>
+</Resources>

@@ -10,6 +10,7 @@
 			<Item Name="LocalizableStrings.OpenSystemDesignerCaption.Value" Value="Open system designer" />
 			<Item Name="LocalizableStrings.RedirectToWorkplaceCaption.Value" Value="Workplace setup" />
 			<Item Name="LocalizableStrings.SspProfileCaption.Value" Value="פרופיל" />
+			<Item Name="LocalizableStrings.SystemDesignerMenuButtonHint.Value" Value="הגדרות" />
 			<Item Name="LocalizableStrings.TelephonyMenuSeparator.Value" Value="טלפוניה" />
 		</Items>
 	</Group>

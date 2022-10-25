@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CannotEditPageMessage.Value" Value="Сторінка недоступна для редагування. Ви можете відредагувати тільки сторінки, створені в дизайнері сторінок. Щоб змінити домашню сторінку або додати нову, перейдіть до налаштування робочого місця." />
+			<Item Name="LocalizableStrings.ChatMenuSeparator.Value" Value="Чат" />
+			<Item Name="LocalizableStrings.EditPageCaption.Value" Value="Налаштувати сторінку" />
+			<Item Name="LocalizableStrings.OpenSystemDesignerCaption.Value" Value="Відкрити дизайнер системи" />
+			<Item Name="LocalizableStrings.RedirectToWorkplaceCaption.Value" Value="Налаштування робочого місця" />
+			<Item Name="LocalizableStrings.SystemDesignerMenuButtonHint.Value" Value="Налаштування" />
+			<Item Name="LocalizableStrings.TelephonyMenuSeparator.Value" Value="Телефонія" />
+		</Items>
+	</Group>
+</Resources>

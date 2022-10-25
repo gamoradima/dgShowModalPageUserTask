@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CannotEditPageMessage.Value" Value="Vous ne pouvez pas modifier cette page. Vous ne pouvez modifier que les pages créées dans le Designer de page.&#xA;Pour modifier votre page d'accueil ou ajouter une nouvelle page d'accueil, rendez-vous dans la configuration de l'espace de travail." />
+			<Item Name="LocalizableStrings.ChatMenuSeparator.Value" Value="Chat" />
+			<Item Name="LocalizableStrings.EditPageCaption.Value" Value="Page d'édition" />
+			<Item Name="LocalizableStrings.OpenSystemDesignerCaption.Value" Value="System designer" />
+			<Item Name="LocalizableStrings.RedirectToWorkplaceCaption.Value" Value="Paramétrage de l'espace de travail" />
+			<Item Name="LocalizableStrings.SystemDesignerMenuButtonHint.Value" Value="Paramètres" />
+			<Item Name="LocalizableStrings.TelephonyMenuSeparator.Value" Value="Téléphonie" />
+		</Items>
+	</Group>
+</Resources>

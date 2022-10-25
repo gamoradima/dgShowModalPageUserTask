@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CannotEditPageMessage.Value" Value="Tuto stránku nelze upravovat. Upravovat můžete pouze stránky vytvořené v Návrháři stránek.&#xA;Chcete-li změnit domovskou stránku nebo přidat novou domovskou stránku, přejděte do nastavení pracoviště." />
+			<Item Name="LocalizableStrings.ChatMenuSeparator.Value" Value="Chat" />
+			<Item Name="LocalizableStrings.EditPageCaption.Value" Value="Upravit stránku" />
+			<Item Name="LocalizableStrings.OpenSystemDesignerCaption.Value" Value="System designer" />
+			<Item Name="LocalizableStrings.RedirectToWorkplaceCaption.Value" Value="Nastavení pracoviště" />
+			<Item Name="LocalizableStrings.SystemDesignerMenuButtonHint.Value" Value="Nastavení" />
+			<Item Name="LocalizableStrings.TelephonyMenuSeparator.Value" Value="Telefonování" />
+		</Items>
+	</Group>
+</Resources>
